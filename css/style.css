@@ -1,0 +1,18 @@
+.box{
+  min-height: 100px;
+  background-color: royalblue;
+}
+.box1{
+  min-height: 100px;
+  border: 2px solid red;
+}
+.box1 h1{
+  font-size: 60px;
+  color: rgb(219, 17, 17);
+  text-align: center;
+}
+.box2{
+  min-height: 100px;
+  background-color: rgb(13, 185, 185);
+  margin-bottom: 15px;
+}
